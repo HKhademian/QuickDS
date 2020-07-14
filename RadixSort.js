@@ -37,9 +37,10 @@ function RadixSort(data) {
 
 (function test() {
 	RadixSort.DEBUG = true;
+	// after final exam I check my answer to testify my response
+	let data = ["test", "best", "tall", "ten", "book", "books"];
 
 	// let data = ["COW", "DOG", "SEA", "RUG", "ROW", "MOB", "TAB", "BAR", "EAR", "TAR", "DIG", "BIG", "TEA", "NOW", "FOX"];
-	let data = ["test", "best", "tall", "ten", "book", "books"];
 	// let result = RadixSort(data, "AXE");
 	let result = RadixSort(data);
 	result;

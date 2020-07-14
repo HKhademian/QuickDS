@@ -184,25 +184,28 @@ class BST():
 # 		tree = tree.getRoot()
 # 		#tree.print()
 # 		pass
-
+#
 # 	tree = tree.getRoot()
 # 	tree.print()
-
+#
 # 	tree = tree.delete()
 # 	tree.print()
-
+#
 # 	#tree.rotateLeft()
 # 	#tree = tree.getRoot()
 # 	#tree.print()
-
+#
 # 	#tree.rotateRight()
 # 	#tree = tree.getRoot()
 # 	#tree.print()
-
+#
 # 	pass
 
 if __name__ == "__main__":
 	pass
+
+	# after final exam I check my answer to testify my response
+	# I also relized the beauty of my kotlin dsl
 
 	tree = BST(10)
 

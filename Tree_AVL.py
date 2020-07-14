@@ -58,6 +58,7 @@ class AVLTree(BST):
 
 
 if __name__ == "__main__":
+	pass
 	# data = [10, 5, 6, 2, 6, 4, 7, 8, 9, 1, 2, 5]
 	import random
 	data = [int(random.random()*100) for _ in range(100)]
@@ -87,4 +88,3 @@ if __name__ == "__main__":
 	tree.print()
 
 
-	pass

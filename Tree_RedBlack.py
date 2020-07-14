@@ -80,21 +80,20 @@ if __name__ == "__main__":
 	# 	tree = tree.getRoot()
 	# 	#tree.print()
 	# 	pass
-
+	#
 	# tree = tree.getRoot()
 	# tree.print()
-
+	#
 	# #tree.rotateLeft()
 	# #tree = tree.getRoot()
 	# #tree.print()
-
+	#
 	# #tree.rotateRight()
 	# #tree = tree.getRoot()
 	# #tree.print()
 
-	# pass
 
-
+	# after final exam I check my answer to testify my response
 	root = RedBlackTree(47)
 	root.left = RedBlackTree(32, root)
 	root.right = RedBlackTree(71, root)
